@@ -1,0 +1,2 @@
+Combination of two files: Hello! first file, Hello! second file:  
+ok
